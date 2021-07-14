@@ -1,16 +1,16 @@
 # Smart-Transportation-System
 The Project selected for State Level Project Competition.
 
-#STS Report
+## STS Report
 [STS Report.pdf](https://github.com/aspurgs/Smart-Transportation-System/files/6682012/STS.Report.pdf)
 
-#State Level Project Competition Representative of CSMSS Aurangabad
+## State Level Project Competition Representative of CSMSS Aurangabad
 ![State Level Project Competition Representative of CSMSS Aurangabad](https://user-images.githubusercontent.com/83290611/122668769-51792600-d1d7-11eb-9d07-6c1bc018be8b.jpg)
 
-#State Level MSBTE Project Competition 2019
+## State Level MSBTE Project Competition 2019
 [State Level MSBTE Project Competition 2019.pdf](https://github.com/aspurgs/Smart-Transportation-System/files/6682014/State.Level.MSBTE.Project.Competition.2019.pdf)
 
-#Views of the Project Prototype:
+## Views of the Project Prototype:
 
 1. Back Side View of STS:
     ![Back Side View of STS](https://user-images.githubusercontent.com/83290611/122668859-c6e4f680-d1d7-11eb-91d8-6635d474dd7c.jpg)
